@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"Compare Side-By-Side",
+		"ConvertToUTF8",
 		"Emmet",
 		"Package Control"
 	]
