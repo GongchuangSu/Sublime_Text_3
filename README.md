@@ -22,3 +22,6 @@ Sublime Text 默认的 Autocomplete 功能只考虑当前的文件，而 AllAuto
 
 ## Java​Script & Node​JS Snippets(Recommend)
 JavaScript & NodeJS Snippets for Sublime Text 2/3
+
+## j​Query
+Sublime Text package bundle for jQuery
