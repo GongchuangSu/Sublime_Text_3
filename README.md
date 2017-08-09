@@ -2,6 +2,9 @@
 ## Package Control(Necessary)
 可以方便的安装、管理Sublime Text中的包或插件
 
+## SublimeCodeIntel(Recommend)
+代码智能提示插件
+
 ## Emmet(Recommend)
 可以让你更快更高效地编写HTML和CSS
 

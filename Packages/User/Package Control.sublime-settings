@@ -16,6 +16,7 @@
 		"jQuery",
 		"MarkdownEditing",
 		"Package Control",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
 	]
 }
