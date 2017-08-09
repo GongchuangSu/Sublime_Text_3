@@ -10,10 +10,12 @@
 		"AutoFileName",
 		"Compare Side-By-Side",
 		"ConvertToUTF8",
+		"DocBlockr",
 		"Emmet",
 		"JavaScript & NodeJS Snippets",
 		"jQuery",
 		"MarkdownEditing",
-		"Package Control"
+		"Package Control",
+		"SideBarEnhancements"
 	]
 }

@@ -28,3 +28,9 @@ Sublime Text package bundle for jQuery
 
 ## AdvancedNewFile
 快捷方便的在指定目录下新建文件
+
+## SideBarEnhancements
+Enhancements to Sublime Text sidebar. Files and folders.
+
+## DocBlockr
+Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++
