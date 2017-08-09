@@ -25,3 +25,6 @@ JavaScript & NodeJS Snippets for Sublime Text 2/3
 
 ## j​Query
 Sublime Text package bundle for jQuery
+
+## AdvancedNewFile
+快捷方便的在指定目录下新建文件
