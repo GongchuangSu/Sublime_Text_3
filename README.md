@@ -1,8 +1,8 @@
 # Sublime_Text_3
-## Package Control
+## Package Control(Necessary)
 可以方便的安装、管理Sublime Text中的包或插件
 
-## Emmet
+## Emmet(Recommend)
 可以让你更快更高效地编写HTML和CSS
 
 ## ConvertToUTF8
@@ -19,3 +19,6 @@ Sublime Text 默认的 Autocomplete 功能只考虑当前的文件，而 AllAuto
 
 ## AutoFileName
 自动补全文件路径
+
+## Java​Script & Node​JS Snippets(Recommend)
+JavaScript & NodeJS Snippets for Sublime Text 2/3
