@@ -7,3 +7,9 @@
 
 ## ConvertToUTF8
 专为中文设计
+
+## Compare Side-By-Side
+Sublime版本的Beyond Compare
+
+## MarkDown Editing
+支持MarkDown语法高亮，自带三个主题
