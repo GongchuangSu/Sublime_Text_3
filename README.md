@@ -13,3 +13,9 @@ Sublime版本的Beyond Compare
 
 ## MarkDown Editing
 支持MarkDown语法高亮，自带三个主题
+
+## All Autocomplete
+Sublime Text 默认的 Autocomplete 功能只考虑当前的文件，而 AllAutocomplete 插件会搜索所有打开的文件来寻找匹配的提示词
+
+## AutoFileName
+自动补全文件路径

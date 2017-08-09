@@ -5,6 +5,8 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
+		"AutoFileName",
 		"Compare Side-By-Side",
 		"ConvertToUTF8",
 		"Emmet",
