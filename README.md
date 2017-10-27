@@ -43,3 +43,6 @@ Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscr
 
 ## SCSS
 支持sass
+
+## Pretty JSON
+美化JSON格式代码(ctrl+alt+j)
