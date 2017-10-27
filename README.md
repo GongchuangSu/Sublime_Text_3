@@ -46,3 +46,8 @@ Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscr
 
 ## Pretty JSON
 美化JSON格式代码(ctrl+alt+j)
+
+## Pandoc
+集成Pandoc，方便快捷的将Markdown文件转换为Word文档  
+1. [How To Set Up Sublime Text for Markdown Export to Word](http://plaintext-productivity.net/2-05-how-to-set-up-sublime-text-for-markdown-export-to-word.html)  
+2. [Pandoc下载链接](http://pandoc.org/installing.html)
